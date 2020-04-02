@@ -1,0 +1,1 @@
+This repository contains some of the Python code I wrote while learning from Fred Baptiste's "Python Deep Dive" course on Udemy.
